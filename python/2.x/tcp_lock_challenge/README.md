@@ -1,6 +1,4 @@
-#Scripting challenges
-
-## tcp_lock_server.py
+# tcp_lock_server.py
 
 This provides a TCP server, listening on 39842/tcp.
 
@@ -14,7 +12,7 @@ If the time is excceded or an incorrect response received the server will write 
 
 *NOTE* update the tcp_lock_server.py file with the FLAG you want to return you can also tweak timeout settings however ymmv 
 
-### Solving this challenge
+## Solving this challenge
 
 You will want to write a program which interprets the text sent from the server, and calculates / provides the correct response over the tcp connection to the server very quickly (think sub second).
 
