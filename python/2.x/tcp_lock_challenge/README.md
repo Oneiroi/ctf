@@ -20,4 +20,8 @@ You will also want to store the response and write it out to the console as this
 
 This tests your scripting ability, it is by no means a practical security measure only a measure of ability to script to solve a particular problem.
 
-*DO NOT* depeloy this method to protect any asset, seriously ...
+*DO NOT* deploy this method to protect any asset, seriously ...
+
+## This IS achieveable
+
+It may appear to be impossible, however scripting to reply sub second and ensure accurate responses is key as this [![asciicast](https://asciinema.org/a/l1Ak2GOdeyfnkJ8u0awXHeTrn.svg)](https://asciinema.org/a/l1Ak2GOdeyfnkJ8u0awXHeTrn) shows.
