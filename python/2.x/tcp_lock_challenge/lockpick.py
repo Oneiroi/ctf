@@ -6,6 +6,8 @@ __author__ == 'David Busby oneiroi@fedoraproject.org'
 This is for python 2.7.x, _if_ you opt for python 3 due to differences in socket handling
 a lot of this code will no longer function.
 
+PS this solution is disarmed, you'll need to fix some purposefull errors within ;-)
+
 """
 import socket
 import re
